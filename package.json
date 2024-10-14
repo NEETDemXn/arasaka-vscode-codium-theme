@@ -1,0 +1,21 @@
+{
+  "name": "arasaka-color-theme",
+  "displayName": "Arasaka-color-theme",
+  "description": "Arasaka inspired VSCode theme from Mike Pondsmith's \"Cyberpunk\" series.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Arasaka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Arasaka-color-theme.json"
+      }
+    ]
+  }
+}
